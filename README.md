@@ -1,7 +1,2 @@
-# Code Institute
-
-Welcome USER_NAME,
-
-We have preinstalled all of the tools you need to get started.
-
-Happy coding!
+I will be experimenting with bootstrap within this project to gain an understanding of how I should use it
+and what its limitations are. 
